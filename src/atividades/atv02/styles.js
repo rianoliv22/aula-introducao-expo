@@ -11,10 +11,10 @@ const styles = StyleSheet.create({
   },
   titulo: {
     fontSize: RFPercentage(3),
-    color: '#0f9ddfff',
+    color: '#000000ff',
     fontWeight: 'bold',
     borderWidth: 2,
-    borderColor: '#0f9ddfff',
+    borderColor: '#000000ff',
     marginTop: 10,
     marginBottom: 10,
     padding: 8,

@@ -19,7 +19,7 @@ const styles = StyleSheet.create({
   },
   texto: {
     fontSize: RFPercentage(2.2),
-    color: '#fafafa',
+    color: '#000000ff',
   },
 });
 

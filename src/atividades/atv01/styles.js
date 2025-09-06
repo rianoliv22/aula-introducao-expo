@@ -15,11 +15,11 @@ const styles = StyleSheet.create(
         titulo: {
             fontSize:RFPercentage(5),
             fontWeight: 'bold',
-            color: '#ffd000ff',
+            color: '#ffffffff',
         },
         txt: {
             fontSize: RFPercentage(3),
-            color: '#ffe600ff',
+            color: '#ffffffff',
             fontStyle:'italic',
             fontFamily:'Georgia',
         },
